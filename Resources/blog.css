@@ -1,0 +1,17 @@
+.blog {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
+.post {
+    padding: 1rem;
+    max-width: 600px;
+}
+
+.post h1 {
+    margin: 0.5rem;
+}
+
+.post p {
+    margin: 0.5rem;
+}
